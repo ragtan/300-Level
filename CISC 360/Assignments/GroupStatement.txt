@@ -1,0 +1,6 @@
+Student 1: Raghav Taneja (20058783)
+Student 2: Ben Durston (20071009)
+
+Hours worked on assignemnt: 3-4
+
+I set up the repository and did question 2 (parts a and b). Ben added the devcontainer then did question 2c and tested his code. During his tests, Ben found a bug that sourced from the code in question 2b so we brainstormed some possible solutions and made the fix. We then took time to go over question 3 by ourselves to ensure we fully understood how to approach it. After we had a solid understanding of this question, we wrote the code together in a paired programming session. Lastly, we tested all the code again individually and collaboratively prior to submitting the assignment.
