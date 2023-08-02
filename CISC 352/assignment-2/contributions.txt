@@ -1,0 +1,7 @@
+Group Members:
+Stewart Penny, 20103411, 18SWFP
+Sebastian Huber-Oikle, 20049020, 16SKHO
+Muhammad Ahmed, 20128941, 18MA21
+Raghav Taneja, 20058783, 16RT33
+
+All group members collaborated equally towards figuring out the code for the domain files and problem files.
